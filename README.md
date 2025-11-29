@@ -1,6 +1,6 @@
 Number Classification model
 
-Number5 Classfication using CNN | MNIST Dataset
+Number Classfication using CNN | MNIST Dataset
 
 ### Notes
 
